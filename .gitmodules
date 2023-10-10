@@ -1,3 +1,6 @@
 [submodule "undergraduate"]
 	path = undergraduate
 	url = https://github.com/OpenHUTB/undergraduate.git
+[submodule "object_decoding"]
+	path = object_decoding
+	url = https://github.com/OpenHUTB/object_decoding
